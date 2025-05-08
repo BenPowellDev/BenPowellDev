@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 SDET @ Entain | CR GAMES | VERTICAL GAMES<br>🔭 I’m currently working on: VR Interaction System within UE5<br>🌱 I’m currently learning: Javascript
+💻 SDET @ Entain | CR GAMES | VERTICAL GAMES<br>🔭 I’m currently working on: UE5 poker/blackjack who knows what
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/benpowelldev) 
 
